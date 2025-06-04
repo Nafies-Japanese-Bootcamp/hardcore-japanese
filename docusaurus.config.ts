@@ -14,8 +14,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-github-user', // Usually your GitHub org/user name.
-  projectName: 'japanese-learning-plan', // Usually your repo name.
+  organizationName: 'Nafies-Japanese-Bootcamp', // Usually your GitHub org/user name.
+  projectName: 'hardcore-japanese', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
