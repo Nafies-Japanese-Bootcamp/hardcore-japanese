@@ -10,7 +10,7 @@ const config: Config = {
   url: 'https://hardcore-japanese.pages.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/hardcore-japanese/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
